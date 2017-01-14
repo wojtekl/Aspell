@@ -14,5 +14,5 @@ In aspell/spellerpages/server-scripts/spellchecker.php:
 - replace 'pl_PL' with desired language code where 'lang'.
 
 ## INSTALL
-1. Movie aspell directory to CKEditors plugin directory.
+1. Move aspell directory to CKEditors plugin directory.
 2. Append 'aspell' to 'extraPlugins'.
